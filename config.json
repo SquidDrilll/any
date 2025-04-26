@@ -1,8 +1,8 @@
 {
-    "I2C_Rate": 93.5,
-    "C2I_Rate": 87,
-    "Upi": "9316510104@fam",
-    "Upi2": "Upload Here",
+    "I2C_Rate": 94,
+    "C2I_Rate": 88.5,
+    "Upi": "kapatel@fam",
+    "Upi2": "None",
     "Qr": "https://cdn.discordapp.com/attachments/1341423497162784779/1341423653488820265/Screenshot_20250218_152515_FamApp.png?ex=67b5f1a1&is=67b4a021&hm=3718782928b9747eb0ef529266ffc8b7332ab8f6afd25afadc0566b372ef7e90&",
     "Qr2": "Upload Here",
     "SERVER_Link": "https://discord.gg/TYzhkH4RjS",
@@ -12,6 +12,6 @@
     "BINANCE_ID": "Upload Here",
     "ltckey": "Upload Here",
     "apikey": "t-6671a344bf5dd5001c4cf40d-4b64fd6ff6634d3ebdaf6120",
-    "token": "MTA2ODY0NzE4NTkyODk2MjA2OA.G_PSbc.lCtLk4sSdIKScL3qq9vMIF8aeL6lPET78xIm7g",
+    "token": "MTAzMDg4NjI5NjQ3MTc0ODYzOA.GihYsc.o-Idkgi9Oq5S8eio5jjef6ZYblx1DYKZLfZzOc",
     "prefix": "."
     }
